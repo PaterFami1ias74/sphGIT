@@ -5,6 +5,7 @@
 <h1>Forbidden</h1>
 <p>You don't have permission to access /
 on this server.</p>
+<p>Мучу штуки с GIT</p>
 <hr>
 <address>Apache/2.4.6 Server at Port 80</address>
 </body></html>
